@@ -5,6 +5,5 @@ in this project I used Sass
   <li>Responsive Design</li>
   <li>Login page is active</li>
   <li>I will complate the sidenav section in my free time</li>
-  <li>I mostly used CSS flex feature</li>
  </ul>
  <h2>You can see the project on live =>> <a href='https://mozanyazar.github.io/PayPal-Clone-/'>Click me!</a></h2>
